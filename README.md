@@ -1,3 +1,7 @@
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Loading+Project+Overview...;Analyzing+Sales+Data...;Building+Interactive+Dashboard...&center=true&width=900&height=40&color=ff8c00" />
+
+
 # 🚦 Road Accident Analysis Dashboard – Excel Project(Power Query)
 
 ## 📌 Project Description
