@@ -69,6 +69,8 @@ The dashboard enables users to filter data dynamically and gain quick insights i
 
 ## 📊 Dashboard
 
+<img width="845" height="381" alt="road" src="https://github.com/user-attachments/assets/e96990ba-8154-49bf-97dd-e402daf8e86c" />
+
 
 ---
 
